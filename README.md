@@ -1,3 +1,3 @@
 ### What?
 
-Repo for team pixel
+Repo for team pixel demo
